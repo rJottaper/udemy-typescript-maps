@@ -1,0 +1,14 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "main": "no",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.8",
+    "@types/google.maps": "^3.45.6",
+    "faker": "^5.5.3"
+  }
+}
